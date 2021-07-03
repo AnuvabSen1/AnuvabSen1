@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Analog Design
 - 💞️ I’m looking to collaborate on with other open source enthusiasts to collaborate among ourselves.
 
-![Electronics](Download.jpg)
+!<centre>[Electronics](Download.jpg)<centre>
 # 📫 Contact Me in the Webpages
 md-icon:
 
