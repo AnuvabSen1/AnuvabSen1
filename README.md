@@ -2,8 +2,12 @@
 - 👀 I am primarily interested in Electronics and Open source Contributions
 - 🌱 I’m currently learning Machine Learning and Analog Design
 - 💞️ I’m looking to collaborate on with other open source enthusiasts to collaborate among ourselves.
-
-![Electronics](Download.jpg)
+<p align="center">
+   //!![AWSML-Banner](Download.jpg)
+</p>
+<p align="center">
+    // Your content
+</p>
 # 📫 Contact Me in the Webpages
 md-icon:
 
