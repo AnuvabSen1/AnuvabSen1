@@ -1,3 +1,7 @@
+<a href="">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
 <h1 align="center"> 👋 Hi, I am ANUVAB SEN</h1>
 <div align="center">
 <img src="https://img.shields.io/badge/%F0%9F%98%8A-Github-FF79CD" alt="Github account AnuvabSen1"/>
