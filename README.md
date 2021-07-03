@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Analog Design<br>
 - 💞️ I’m looking to collaborate on with other open source enthusiasts to collaborate among ourselves.<br>
 <br>
+<p align="left"> <a href="https://twitter.com/Caroline_TClara" target="blank"><img src="https://img.shields.io/badge/Follow-%40Anuvab__Sen-brightgreen" /></a> </p>
 <p align="center">
   <img width="800" hieght="800" src="Download.jpg">
 </p>
