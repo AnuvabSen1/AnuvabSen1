@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Analog Design
 - 💞️ I’m looking to collaborate on with other open source enthusiasts to collaborate among ourselves.
 <p align="center">
-  <img width="400" src="Download.jpg">
+  <img width="800" hieght="800" src="Download.jpg">
 </p>
    
 # 📫 Contact Me in the Webpages
