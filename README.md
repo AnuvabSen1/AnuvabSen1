@@ -13,7 +13,7 @@
 <br>
 - 👀 I am primarily interested in Electronics and Open source Contributions<br>
 - 🌱 I’m currently learning Machine Learning and Analog Design<br>
-- 💞️ I’m looking to collaborate on with other open source enthusiasts to collaborate among ourselves.<br>
+- 💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .<br>
 <br>
 
   <br>
