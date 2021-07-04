@@ -20,7 +20,7 @@
 
 ![tenor](https://user-images.githubusercontent.com/86666497/124365995-c6ce0780-dc69-11eb-83ec-566c73e836ae.gif)
 
-### Languages: 
+### Languages 
 
 [<img align="centre" alt="Git" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/)
 [<img align="centre" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />](https://html.com/)
