@@ -5,7 +5,7 @@
 
 <h1 align="center"> 👋 Hi, I am ANUVAB SEN</h1>
 <div align="center">
-<p> <img src="https://komarev.com/ghpvc/?username=AnuvabSen1&label=Profile%20views&color=0e75b6&style=flat" alt="Anuvab Sen" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=AnuvabSen1&label=Profile%20views&color=0e75b6&style=flat" alt="Anuvab Sen" /></p>
 <img src="https://img.shields.io/badge/%F0%9F%98%8A-Github-FF79CD" alt="Github account AnuvabSen1"/>
 <a href="https://www.facebook.com/anuvab.sen.5095"><img src="https://img.shields.io/badge/Facebook-%40Anuvab__Sen-A239EA"/></a>
 <img src="https://img.shields.io/badge/Linkedin-Anuvab%20Sen-5C33F6" alt="Linkedin Anuvab Sen"/>
