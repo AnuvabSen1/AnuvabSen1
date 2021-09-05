@@ -1,12 +1,12 @@
 <p align="center">
-    <a href="https://github.com/AnuvabSen1?tab=repositories">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a><h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" align="center" width="43px">Hi, I am  <a href="https://anuvabsen.github.io/Portfolio-Anuvab-Sen-Code-IIEST/">ANUVAB SEN
+<a href="https://github.com/AnuvabSen1?tab=repositories">
+<img src="images/logo.png" alt="Logo" width="80" height="80">
+</a><h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" align="center" width="43px">Hi, I am  <a  target="blank" href="https://anuvab-sen.meT/">ANUVAB SEN
+    
 
-       
-  </a></h1>
+</a></h1>
 <p align="center" style="display: inline">
- <img src="https://img.shields.io/github/followers/AnuvabSen?style=for-the-badge">
+<img src="https://img.shields.io/github/followers/AnuvabSen?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/AnuvabSen?style=for-the-badge">
 <a href="https://www.linkedin.com/in/anuvab-sen-316383202"><img src="https://img.shields.io/badge/-Anuvab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuvab-sen-316383202/)](https://www.linkedin.com/in/anuvab-sen-316383202"></a>
  <a href="https://anuvab-sen.me">
