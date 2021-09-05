@@ -4,13 +4,11 @@
   </a>
 
 <h1 align="center"> 👋 Hi, I am ANUVAB SEN</h1>
-<div align="center">
-<p><img src="https://komarev.com/ghpvc/?username=AnuvabSen1&label=Profile%20views&color=0e75b6&style=flat" alt="Anuvab Sen" /></p>
-<img src="https://img.shields.io/badge/%F0%9F%98%8A-Github-FF79CD" alt="Github account AnuvabSen1"/>
-<a href="https://www.facebook.com/anuvab.sen.5095"><img src="https://img.shields.io/badge/Facebook-%40Anuvab__Sen-A239EA"/></a>
-<img src="https://img.shields.io/badge/Linkedin-Anuvab%20Sen-5C33F6" alt="Linkedin Anuvab Sen"/>
-<a href="https://twitter.com/Caroline_TClara" target="blank"><img src="https://img.shields.io/badge/Follow-%40Anuvab__Sen-brightgreen" /></a>
-<a href="https://www.instagram.com/anuvabsen_/" target="blank"><img src="https://img.shields.io/badge/%F0%9F%98%9B-Instagram-FF7600" /></a>
+<p align="center" style="display: inline">
+ <img src="https://img.shields.io/github/followers/AnuvabSen?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/AnuvabSen?style=for-the-badge">
+<a href="https://www.linkedin.com/in/anuvab-sen-316383202"><img src="https://img.shields.io/badge/-Anuvab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuvab-sen-316383202/)](https://www.linkedin.com/in/anuvab-sen-316383202"></a>
+</p>
 <br>
 - 👀 I am primarily interested in Electronics and Open source Contributions<br>
 - 🌱 I’m currently learning Machine Learning and Analog Design<br>
