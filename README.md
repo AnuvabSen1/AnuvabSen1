@@ -1,6 +1,9 @@
 <p align="center">
 <a href="https://github.com/AnuvabSen1?tab=repositories">
 <img src="images/logo.png" alt="Logo" width="80" height="80">
+    
+<p align="center">
+<a href="https://github.com/AnuvabSen1?tab=repositories">
 </a><h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" align="center" width="43px">Hi, I am  <a  target="blank" href="https://anuvab-sen.me/">ANUVAB SEN
     
 
@@ -10,8 +13,11 @@
 <img src="https://img.shields.io/github/stars/AnuvabSen?style=for-the-badge">
 <a href="https://www.linkedin.com/in/anuvab-sen-316383202"><img src="https://img.shields.io/badge/-Anuvab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuvab-sen-316383202/)](https://www.linkedin.com/in/anuvab-sen-316383202"></a>
  <a href="https://anuvab-sen.me">
- <img src="https://img.shields.io/badge/Blog%20by-Website%20Anuvab%20Sen%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
- </a>
+ <img src="https://img.shields.io/badge/Personal%20by-Website%20Anuvab%20Sen%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
+<a href="https://anuvabsen.github.io/Anuvab-Sen-Blogs/">
+<img src="https://img.shields.io/badge/Blogs%20Anuvab%20Sen%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+</a>
 </p>
 <br>
  </a>
