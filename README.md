@@ -152,14 +152,14 @@ var developements = {
       <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
 
+
+
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AnuvabSen1&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
 </div>
 <hr>
-
-
 
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnuvabSen&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <hr>
