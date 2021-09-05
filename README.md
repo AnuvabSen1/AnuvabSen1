@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/AnuvabSen1?tab=repositories">
 <img src="images/logo.png" alt="Logo" width="80" height="80">
-</a><h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" align="center" width="43px">Hi, I am  <a  target="blank" href="https://anuvab-sen.meT/">ANUVAB SEN
+</a><h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" align="center" width="43px">Hi, I am  <a  target="blank" href="https://anuvab-sen.me/">ANUVAB SEN
     
 
 </a></h1>
