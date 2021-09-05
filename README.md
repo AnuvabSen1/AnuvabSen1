@@ -9,6 +9,9 @@
  <img src="https://img.shields.io/github/followers/AnuvabSen?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/AnuvabSen?style=for-the-badge">
 <a href="https://www.linkedin.com/in/anuvab-sen-316383202"><img src="https://img.shields.io/badge/-Anuvab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuvab-sen-316383202/)](https://www.linkedin.com/in/anuvab-sen-316383202"></a>
+ <a href="https://anuvab-sen.me">
+ <img src="https://img.shields.io/badge/Blog%20by-Website%20Anuvab%20Sen%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+ </a>
 </p>
 <br>
  </a>
@@ -156,9 +159,9 @@ var developements = {
 </div>
 <hr>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuvabSen&theme=dark&hide_border=true"/>|
-|---|---
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+
+<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnuvabSen&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <hr>
     
 
