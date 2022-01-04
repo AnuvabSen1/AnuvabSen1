@@ -1,7 +1,11 @@
 <p align="center">
-<a href="https://github.com/AnuvabSen1?tab=repositories">
-<img src="images/logo.png" alt="Logo" width="80" height="80">
-    
+    <a href="https://github.com/AnuvabSen?tab=repositories">
+        <img src="https://media.tenor.com/images/3b0ebaea968734fc45fec9d95b8b85f9/tenor.gif" alt="Logo" width="80" height="80" align = "center">
+        </a>
+        <img src="https://media.tenor.com/images/3b0ebaea968734fc45fec9d95b8b85f9/tenor.gif" alt="Logo" width="80" height="80" align = "center">
+
+
+
 <p align="center">
 <a href="https://github.com/AnuvabSen1?tab=repositories">
 </a><h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" align="center" width="43px">Hi, I am  <a  target="blank" href="https://anuvab-sen.me/">ANUVAB SEN
@@ -53,9 +57,7 @@ var developements = {
 💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .
 <br>
 <br>
-<!-- ![tenor](https://user-images.githubusercontent.com/86666497/124365995-c6ce0780-dc69-11eb-83ec-566c73e836ae.gif)
- -->
- <br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
@@ -140,29 +142,29 @@ var developements = {
     🎥 Few all time favourite Movies :
 ---
 
-<p float="left">
-  <img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/baby.jpg" width="275" height ="400"/>
-     <img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/titanic.jpg" width="275" height ="400"/>
-  <img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/gladiator.jpg" width="275" height ="400"/>
- 
-   </p>
+<table>
+<tr>
+<td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/baby.jpg" width="270" height ="400"/></a></br> <h4 style="color:red;">Baby's Day Out</h4>
+<td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/titanic.jpg" width="270" height ="400"/><h4 style="color:red;">Titanic Movie</h4>
+<td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/gladiator.jpg" width="270" height ="400"/><h4>Gladiator Movie</h4>
+</table>
+    
+<table>
+<tr>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" width="270" hieght="700" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a><h4 style="color:red;">Anuvab's Wakatime Datas</h4>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width="270" hieght="700" src="https://github-readme-stats.vercel.app/api?username=AnuvabSen&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/></a><h4 style="color:red;">Github Readme Stats</h4>
+<td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img align="right" width="270" hieght="700" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen&theme=react&border=61DAFB&fire=DDB80F"/></a><h4 style="color:red;">Github Contributions Stats</h4>
+</table>
    
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=AnuvabSen&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>
-<a href="(https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen&theme=react&border=61DAFB&fire=DDB80F"/>
- </a>
+
+
 
 
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AnuvabSen1&theme=onedark&column=8" alt="zumrudu-anka" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AnuvabSen&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
 </div>
 <hr>
