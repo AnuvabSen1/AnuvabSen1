@@ -25,7 +25,7 @@
 </p>
 <br>
  </a>
-<img align='right' src='https://user-images.githubusercontent.com/86666497/124365995-c6ce0780-dc69-11eb-83ec-566c73e836ae.gif'>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="390" />
 <br>
 <br>
 
@@ -144,7 +144,7 @@ var developements = {
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="400"/></a></br> <h4 style="color:red;">Baby's Day Out</h4>
+<td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/titanic.jpg" width="270" height ="400"/></a></br> <h4 style="color:red;">Baby's Day Out</h4>
 <td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/titanic.jpg" width="270" height ="400"/><h4 style="color:red;">Titanic Movie</h4>
 <td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/gladiator.jpg" width="270" height ="400"/><h4>Gladiator Movie</h4>
 </table>
