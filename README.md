@@ -146,7 +146,7 @@ var developements = {
 <tr>
 <td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.png" width="270" height ="400"/></a></br> <h4 style="color:red;">Codeforces Profile</h4>
 <td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.jpg" width="270" height ="400"/><h4 style="color:red;">Atcoder Profile</h4>
-<td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen/AnuvabSen/blob/master/images/gladiator.jpg" width="270" height ="400"/><h4>Gladiator Movie</h4>
+<td align="center"><a href="https://github.com/AnuvabSen"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="400"/><h4>Gladiator Movie</h4>
 </table>
     
 <table>
