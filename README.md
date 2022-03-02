@@ -1,7 +1,7 @@
 <a href="https://github.com/AnuvabSen1?tab=repositories"><img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" height = "90" width="310" alt="hellogif"></a>
 <h1 >👋 I'm <a href = "https://anuvab-sen.me">ANUVAB</a>,Nice to see you.🤗</h1>
 <h3 align="center" >ELECTRONICS ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
-<br>
+<hr>
 
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/AnuvabSen1?style=for-the-badge">
@@ -166,8 +166,6 @@ var developements = {
 
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnuvabSen1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <hr>
-    
-
     
 <h3 align="center">Connect with me:</h3>
 <p align="center">
