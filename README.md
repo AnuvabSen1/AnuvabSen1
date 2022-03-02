@@ -130,7 +130,8 @@ var developements = {
 - 📫 How to reach me, drop an email at **sen.anuvab@gmail.com**
 - My CV website: https://anuvab-sen.me
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
-##
+
+<br>
   
     
     🎥 Few of my competitive programming profiles  :
