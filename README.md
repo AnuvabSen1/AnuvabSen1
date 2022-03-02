@@ -31,7 +31,10 @@
 <br>
 <br>
 
-<p align="left"> <a href="https://twitter.com/amrita_kesh" target="blank"><img src="https://img.shields.io/twitter/follow/AnuvabSen10?logo=twitter&style=for-the-badge" alt="anuvab_sen" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/AnuvabSen10" target="blank"><img src="https://img.shields.io/twitter/follow/AnuvabSen10?logo=twitter&style=for-the-badge" alt="anuvab_sen" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/AnuvabSen10" target="blank"><img src="https://img.shields.io/twitter/follow/AnuvabSen10?logo=twitter&style=for-the-badge" alt="anuvab_sen" /></a> </p>
 
 ```sh
 var developements = {
