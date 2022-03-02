@@ -1,17 +1,10 @@
-<p align="center">
-    <a href="https://github.com/AnuvabSen?tab=repositories">
-        <img src="https://media.tenor.com/images/3b0ebaea968734fc45fec9d95b8b85f9/tenor.gif" alt="Logo" width="80" height="80" align = "center">
-        </a>
-        <img src="https://media.tenor.com/images/3b0ebaea968734fc45fec9d95b8b85f9/tenor.gif" alt="Logo" width="80" height="80" align = "center">
+<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif"><a href="https://github.com/AnuvabSen1?tab=repositories"></a><h1><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" width="43px"> I am  <a  target="blank" href="https://anuvab-sen.me/">ANUVAB SEN</a>. Nice to see you.🤗</h1><h1></h1>
+
+
+<p align="center" style="display: inline">
 
 
 
-<p align="center">
-<a href="https://github.com/AnuvabSen1?tab=repositories">
-</a><h1 align="center"><img src="https://raw.githubusercontent.com/micepram/micepram/master/Hi.gif" align="center" width="43px">Hi, I am  <a  target="blank" href="https://anuvab-sen.me/">ANUVAB SEN
-    
-
-</a></h1>
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/AnuvabSen1?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/AnuvabSen1?style=for-the-badge">
