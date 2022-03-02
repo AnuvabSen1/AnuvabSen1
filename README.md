@@ -164,7 +164,7 @@ var developements = {
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=AnuvabSen1&theme=react-dark&hide_border=true&area=true)
-<hr>
+
 
     ✍️ Resume  :
 ---
