@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Blog%20-Anuvab%20Sen%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
 </a>
 </p>
-<br>
+<hr>
 
 
 </a>
