@@ -132,8 +132,8 @@ var developements = {
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 
 <br>
-  
-    
+<br>
+
     🎥 Few of my competitive programming profiles  :
 ---
 
