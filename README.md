@@ -145,10 +145,7 @@ var developements = {
 <td align="center"><a href="https://atcoder.jp/users/anuvabsen"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/atcoder.jpg" width="270" height ="250"/><h4 style="color:red;">Atcoder Profile</h4>
 <td align="center"><a href="https://www.codechef.com/users/enigmacode"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="250"/><h4>Codechef Profile</h4>
 </table>
- 
- <br>
- <br>
- 
+<br>
  
     📈 Github Stats  :
 ---
