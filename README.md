@@ -149,7 +149,6 @@ var developements = {
 <table>
 <tr>
 <td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="270" height ="250"/>
-<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="270" hieght="250" src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/></a><h4 style="color:red;">Github Readme Stats</h4>
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="270" hieght="250" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a><h4 style="color:red;">Github Contributions Stats</h4>
 </table>
 
