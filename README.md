@@ -165,6 +165,8 @@ var developements = {
 
 ![](https://activity-graph.herokuapp.com/graph?username=AnuvabSen1&theme=react-dark&hide_border=true&area=true)
 <hr>
+<img align="center" width=100% src="Resume.jpg" alt="Resume" />
+<hr>
     
 <h3 align="center">Connect with me:</h3>
 <p align="center">
