@@ -164,6 +164,9 @@ var developements = {
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=AnuvabSen1&theme=react-dark&hide_border=true&area=true)
+
+    ✍️ Resume  :
+---
 <hr>
 <img align="center" width=100% src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.jpg" alt="Resume" />
 <hr>
