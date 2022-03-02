@@ -2,7 +2,6 @@
 <h1 >👋 I'm <a href = "https://anuvab-sen.me">ANUVAB</a>,Nice to see you.🤗</h1>
 
 <h3 align="center" >ELECTRONICS ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
-
 <br>
 
 <p align="center" style="display: inline">
@@ -25,7 +24,7 @@
 <br>
 
 
-<p align="left"> <a href="https://twitter.com/AnuvabSen10" target="blank"><img src="https://img.shields.io/twitter/follow/AnuvabSen10?logo=twitter&style=for-the-badge" alt="anuvab_sen" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AnuvabSen10" target="blank"><img src="https://img.shields.io/twitter/follow/AnuvabSen10?logo=twitter&style=for-the-badge" alt="anuvab_sen" /></a></p>
 
 ```sh
 var developements = {
@@ -144,7 +143,7 @@ var developements = {
 <tr>
 <td align="center"><a href="https://codeforces.com/profile/gotcoding124"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.png" width="270" height ="400"/></a></br> <h4 style="color:red;">Codeforces Profile</h4>
 <td align="center"><a href="https://atcoder.jp/users/anuvabsen"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.jpg" width="270" height ="400"/><h4 style="color:red;">Atcoder Profile</h4>
-<td align="center"><a href="https://www.codechef.com/users/enigmacode1"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="400"/><h4>Codechef Profile</h4>
+<td align="center"><a href="https://www.codechef.com/users/enigmacode"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="400"/><h4>Codechef Profile</h4>
 </table>
     
 <table>
