@@ -148,9 +148,9 @@ var developements = {
     
 <table>
 <tr>
-<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" width="270" hieght="700" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a><h4 style="color:red;">Anuvab's Wakatime Datas</h4>
-<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width="270" hieght="700" src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/></a><h4 style="color:red;">Github Readme Stats</h4>
-<td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img align="right" width="270" hieght="700" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a><h4 style="color:red;">Github Contributions Stats</h4>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" width="270" hieght="900" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a><h4 style="color:red;">Anuvab's Wakatime Datas</h4>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width="270" hieght="900" src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/></a><h4 style="color:red;">Github Readme Stats</h4>
+<td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img align="right" width="270" hieght="900" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a><h4 style="color:red;">Github Contributions Stats</h4>
 </table>
 
 
