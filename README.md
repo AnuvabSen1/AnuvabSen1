@@ -145,14 +145,22 @@ var developements = {
 <td align="center"><a href="https://atcoder.jp/users/anuvabsen"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/atcoder.jpg" width="270" height ="250"/><h4 style="color:red;">Atcoder Profile</h4>
 <td align="center"><a href="https://www.codechef.com/users/enigmacode"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="250"/><h4>Codechef Profile</h4>
 </table>
-    
+ 
+ <br>
+ <br>
+ 
+ 
+    📈 Github Stats  :
+---
+ 
+ 
 <table>
 <tr>
 <td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="400" height ="250"/>
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="400" hieght="250" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a><h4 style="color:red;">Github Contributions Stats</h4>
 </table>
  
- <table>
+<table>
 <tr>
 <td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="400" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a><h4 style="color:red;">Anuvab's Wakatime Datas</h4>
 <td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" hieght="250"/></a><h4 style="color:red;">I ❤️ Development</h4>
