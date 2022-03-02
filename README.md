@@ -24,10 +24,16 @@
 </a>
 </p>
 <br>
- </a>
+
+
+</a>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="390" />
 <br>
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuvabSen1&label=Profile%20views&color=0e75b6&style=flat" alt="amritakesh" /> </p>
+
+<p align="left"> <a href="https://twitter.com/amrita_kesh" target="blank"><img src="https://img.shields.io/twitter/follow/AnuvabSen10?logo=twitter&style=for-the-badge" alt="anuvab_sen" /></a> </p>
 
 ```sh
 var developements = {
