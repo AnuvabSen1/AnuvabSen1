@@ -1,8 +1,9 @@
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" height = "90" width="310" alt="hellogif">
 <h1 >👋 I'm <a href = "https://anuvab-sen.me">ANUVAB</a>,Nice to see you.🤗</h1>
-<br>
-<br>
 
+<h3 align="center" >ELECTRONICS ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
+
+<br>
 
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/AnuvabSen1?style=for-the-badge">
