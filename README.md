@@ -150,10 +150,6 @@ var developements = {
 <td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width="270" hieght="700" src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/></a><h4 style="color:red;">Github Readme Stats</h4>
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img align="right" width="270" hieght="700" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a><h4 style="color:red;">Github Contributions Stats</h4>
 </table>
-   
-
-
-
 
 
 
@@ -164,7 +160,8 @@ var developements = {
 </div>
 <hr>
 
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnuvabSen1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+![](https://activity-graph.herokuapp.com/graph?username=AnuvabSen1&theme=react-dark&hide_border=true&area=true)
 <hr>
     
 <h3 align="center">Connect with me:</h3>
