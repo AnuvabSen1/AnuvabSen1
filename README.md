@@ -155,9 +155,8 @@ var developements = {
  <table>
 <tr>
 <td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="400" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a><h4 style="color:red;">Anuvab's Wakatime Datas</h4>
-<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" hieght="250"/></a><h4 style="color:red;"></h4>
+<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" hieght="250"/></a><h4 style="color:red;">I ❤️ Development</h4>
 </table>
-
 
 
 <div align=center>
