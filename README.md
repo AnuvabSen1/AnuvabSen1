@@ -1,4 +1,4 @@
-<a href="https://github.com/AnuvabSen1?tab=repositories"><img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" height = "71" width="310" alt="hellogif"></a>
+<a href="https://github.com/AnuvabSen1?tab=repositories"><img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" height = "70" width="310" alt="hellogif"></a>
 <h1 align="left"  >👋 I'm <a href = "https://anuvab-sen.me">ANUVAB</a>,Nice to see you.🤗</h1>
 <h3 align="center" >ELECTRONICS ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
 <br>
@@ -150,6 +150,12 @@ var developements = {
 <tr>
 <td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="400" height ="250"/>
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="400" hieght="250" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a><h4 style="color:red;">Github Contributions Stats</h4>
+</table>
+ 
+ <table>
+<tr>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="400" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a><h4 style="color:red;">Anuvab's Wakatime Datas</h4>
+<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" hieght="250"/></a><h4 style="color:red;"></h4>
 </table>
 
 
