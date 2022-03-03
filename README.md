@@ -192,3 +192,16 @@ var developements = {
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
 </p>
+ 
+<hr>
+
+<div align=center>   
+    <a href="https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS">
+        <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+my+favourite+playlist+ever?" /> 
+        <img align="right" alt="Spotify Now Playing" width=100% height=100% src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/default.svg" />
+    </a>
+</div>
+ 
+<hr>
+ 
+
