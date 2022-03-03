@@ -193,8 +193,6 @@ var developements = {
             width="40" /></a>
 </p>
  
-<hr>
- 
      ♬ Favourite Music  :
 ---
 
@@ -204,5 +202,4 @@ var developements = {
         <img align="right" alt="Spotify Now Playing" width=100% height=100% src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/default.svg" />
     </a>
 </div>
-<h2></h2>
 
