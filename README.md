@@ -192,9 +192,10 @@ var developements = {
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
 </p>
+<hr>
  
      ♬ Favourite Music  :
----
+
 
 <div align=center>   
     <a href="https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS">
