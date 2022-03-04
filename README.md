@@ -10,9 +10,7 @@
  <a href="https://anuvab-sen.me">
  <img src="https://img.shields.io/badge/Personal%20-Website%20Anuvab%20Sen%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
-<a href="https://anuvabsen.github.io/Anuvab-Sen-Blogs/">
-<img src="https://img.shields.io/badge/Blog%20-Anuvab%20Sen%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-</a>
+<a href="https://twitter.com/AnuvabSen10" target="blank"><img src="https://img.shields.io/twitter/follow/AnuvabSen10?logo=twitter&style=for-the-badge" alt="anuvab_sen" /></a>
 </p>
 <br>
 
@@ -23,7 +21,9 @@
 <br>
 
 
-<p align="left"> <a href="https://twitter.com/AnuvabSen10" target="blank"><img src="https://img.shields.io/twitter/follow/AnuvabSen10?logo=twitter&style=for-the-badge" alt="anuvab_sen" /></a></p>
+<p align="left"><a href="https://anuvabsen.github.io/Anuvab-Sen-Blogs/">
+<img src="https://img.shields.io/badge/Blog%20-Anuvab%20Sen%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+</a></p>
 
 ```sh
 var developements = {
