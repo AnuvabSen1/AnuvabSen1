@@ -206,7 +206,6 @@ var developements = {
  
  <div align=center>            
     <a href="https://github.com/AnuvabSen1">
-    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
-    <img width=100% height=100% align="center" alt="Followers" src="followers.svg" />
+    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=9C51E0&center=true&vCenter=true&width=450%&lines=Thanks+for+visiting+my+profile" />
 </div>
 
