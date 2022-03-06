@@ -203,4 +203,10 @@ var developements = {
         <img align="right" alt="Spotify Now Playing" width=100% height=100% src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/default.svg" />
     </a>
 </div>
+ 
+ <div align=center>            
+    <a href="https://github.com/AnuvabSen1">
+    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
+    <img width=100% height=100% align="center" alt="Followers" src="followers.svg" />
+</div>
 
