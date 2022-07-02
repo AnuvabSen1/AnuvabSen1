@@ -1,4 +1,4 @@
-<a href="https://github.com/AnuvabSen1?tab=repositories"><img align="float: left;" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" height = "69" width="310" alt="hellogif"></a> <h1 align = "left">👋 I'm <a href = "https://anuvab-sen.me">ANUVAB</a>, nice to see you.🤗</h1>
+<a href="https://github.com/AnuvabSen1?tab=repositories"><img align="float: left;" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" height = "69" width="310" alt="hellogif"></a> <h1 align = "left"><img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50" height="50"> I'm <a href = "https://anuvab-sen.me">ANUVAB</a>, nice to see you.🤗</h1>
 
 <h3 align="center" >ELECTRONICS ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
 <br>
