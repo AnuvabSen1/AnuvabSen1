@@ -108,9 +108,6 @@ Anuvab Sen Skills
     <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
             src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
             alt="typescript" width="40" height="40" /> </a>
-    <a href="https://www.unrealengine.com/en-US/" target="_blank" title ="Unreal Engine"> <img
-            src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
-            alt="unreal engine" width="40" height="40" /> </a>
 
 </p> 
 <hr>
