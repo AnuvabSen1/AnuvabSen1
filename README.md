@@ -3,7 +3,6 @@
 <h1 align = "center">👋 I'm <a href = "https://anuvab-sen.me">ANUVAB</a>, nice to see you.🤗</h1>
 </div>
 <h3 align="center" >ELECTRONICS ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
-<br>
 
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/AnuvabSen1?style=for-the-badge">
@@ -16,9 +15,6 @@
 </p>
 <br>
 <div>
-
-<hr>
-<br>
 
 <img align = "right" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="300" height="390">
 <br>
