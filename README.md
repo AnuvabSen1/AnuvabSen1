@@ -18,7 +18,7 @@
 </p>
 <br>
 <div>
-<img align = "right" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="500" height="390">
+<img align = "right" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="300" height="390">
 <br>
 <br>
 
@@ -157,8 +157,8 @@ Anuvab Sen Skills
  
 <table>
 <tr>
-<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="700" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a>
-<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="300" hieght="250"/></a>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="600" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a>
+<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" hieght="250"/></a>
 </table>
 
 
@@ -189,10 +189,10 @@ Anuvab Sen Skills
      ♬ Favourite Music  :
 
 
+
 <div align=center>   
     <a href="https://open.spotify.com/show/4FlvnIekSxBi1Oq73V3pEO?uid=adc3714e4b7bf1671d7b&uri=spotify%3Aepisode%3A2gbZ4OtMRYEhvfvp4s1oFi">
-        <img width= "100" height= "100" align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+my+favourite+playlist+ever?" /> 
-        <img align="right" alt="Spotify Now Playing" width=100% height=100% src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/default.svg" />
-    </a>
+        <img width= "1000" height= "200" align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+my+favourite+playlist+ever?" />
 </div>
+<img align="right" alt="Spotify Now Playing" width=1000 height=500 src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/default.svg" /></a>
 
