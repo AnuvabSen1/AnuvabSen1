@@ -5,9 +5,8 @@
 <h3 align="center" >ELECTRONICS ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
 <br>
 
-<p  style="display: inline">
+<p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/AnuvabSen1?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/AnuvabSen1?style=for-the-badge">
 <a href="https://www.linkedin.com/in/anuvab-sen-316383202"><img src="https://img.shields.io/badge/-Anuvab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuvab-sen-316383202/)](https://www.linkedin.com/in/anuvab-sen-316383202"></a>
 <a href="https://anuvab-sen.netlify.app/">
  <img src="https://img.shields.io/badge/Portfolio%20-%20Anuvab%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
