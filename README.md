@@ -21,7 +21,7 @@
 <br>
 
 
-<p align="left">  <a href="https://anuvab-sen.me">
+<p align="left">  <a href="https://anuvab-sen.netlify.app/">
  <img src="https://img.shields.io/badge/Personal%20-Website%20Anuvab%20Sen%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a> </p>
 
@@ -108,10 +108,6 @@ var developements = {
     <a href="https://www.unrealengine.com/en-US/" target="_blank" title ="Unreal Engine"> <img
             src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
             alt="unreal engine" width="40" height="40" /> </a>
-    <a href="https://www.xml.com/" target="_blank" title ="XML"> <img
-            src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png"
-            alt="XML" width="40" height="40" /> </a>
-
 
 </p> 
 <hr>
@@ -158,8 +154,8 @@ var developements = {
  
 <table>
 <tr>
-<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="400" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a><h4 style="color:red;">Anuvab's Wakatime Datas</h4>
-<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" hieght="250"/></a><h4 style="color:red;">I ❤️ Development</h4>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="400" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a>
+<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" hieght="250"/></a>
 </table>
 
 
@@ -173,12 +169,6 @@ var developements = {
 
 ![](https://activity-graph.herokuapp.com/graph?username=AnuvabSen1&theme=react-dark&hide_border=true&area=true)
 
-
-    ✍️ Resume  :
----
-<img align="center" width=100% src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.jpg" alt="Resume" />
-<hr>
-    
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.facebook.com/anuvab.sen.5095/" target="blank"><img align="center"
@@ -198,7 +188,7 @@ var developements = {
 
 <div align=center>   
     <a href="https://open.spotify.com/show/4FlvnIekSxBi1Oq73V3pEO?uid=adc3714e4b7bf1671d7b&uri=spotify%3Aepisode%3A2gbZ4OtMRYEhvfvp4s1oFi">
-        <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+my+favourite+playlist+ever?" /> 
+        <img width= "100" height= "100" align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+my+favourite+playlist+ever?" /> 
         <img align="right" alt="Spotify Now Playing" width=100% height=100% src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/default.svg" />
     </a>
 </div>
