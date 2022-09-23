@@ -1,6 +1,5 @@
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" hieght="70" width="310" alt="hellogif">
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://anuvab-sen.netlify.app/" target="_blank">Anuvab/a>. Nice to see you.🤗 </h1>
-<br>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/>  I'm <a href="https://anuvab-sen.netlify.app/" target="_blank">Anuvab</a>. Nice to see you.🤗 </h1>
 <h3 align="center" >ELECTRONICS ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
 
 <p align="center" style="display: inline">
