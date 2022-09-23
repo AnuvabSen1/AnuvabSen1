@@ -55,7 +55,7 @@ Anuvab Sen Skills
 <br>
 💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .
 <br>
-<br>
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
