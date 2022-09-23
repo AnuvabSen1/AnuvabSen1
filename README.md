@@ -2,9 +2,7 @@
 <div align = centre>
 <h1 align = "center">👋 I'm <a href = "https://anuvab-sen.me">ANUVAB</a>, nice to see you.🤗</h1>
 </div>
-<div align = center>
 <h3 align="center" >ELECTRONICS ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
-</div>
 <br>
 
 <p align="center" style="display: inline">
