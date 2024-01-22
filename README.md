@@ -145,7 +145,7 @@ Anuvab Sen Skills
  
 <table>
 <tr>
-<td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="![Anuvab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuvabSen1&theme=shadow_bluedark&show_icons=true)" width="500"/>
+<td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&theme=holi&show_icons=true" width="500"/>
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a>
 </table>
  
