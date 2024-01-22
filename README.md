@@ -15,7 +15,7 @@
 <br>
 <div>
 
-<img align = "right" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="300" height="390">
+<img align = "right" alt="androidgif" src="https://media.giphy.com/media/SHgA5d6Aoqp7OJXdCC/giphy.gif?cid=ecf05e47kaw9xctgpbg7abaw9bnwezw21yk9u26jkg2bg191&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300" height="390">
 <br>
 <br>
 
@@ -60,9 +60,6 @@ Anuvab Sen Skills
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
             src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
             alt="android studio" width="40" height="40" /> </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
-            src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
-            alt="azure" width="50" height="35" /> </a>
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
@@ -148,7 +145,7 @@ Anuvab Sen Skills
  
 <table>
 <tr>
-<td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="500"/>
+<td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="![Anuvab's's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuvabSen1&theme=shadow_bluedark&show_icons=true)" width="500"/>
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a>
 </table>
  
