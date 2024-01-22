@@ -15,7 +15,7 @@
 <br>
 <div>
 
-<img align = "right" alt="androidgif" src="https://media.giphy.com/media/SHgA5d6Aoqp7OJXdCC/giphy.gif?cid=ecf05e47kaw9xctgpbg7abaw9bnwezw21yk9u26jkg2bg191&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300" height="390">
+<img align = "right" alt="androidgif" src="https://media.giphy.com/media/NIOD9qVufScrIufmvj/giphy.gif?cid=ecf05e47rk8o28jj8twa9rcgujlgo5npktc250ypzd8gioub&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300" height="390">
 <br>
 <br>
 
