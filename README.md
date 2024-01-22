@@ -151,8 +151,8 @@ Anuvab Sen Skills
  
 <table>
 <tr>
-<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="500" hieght="100" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a>
-<td align="center"<a href="" title="Go to Source"><img src="https://media.giphy.com/media/OK5LK5zLFfdm/giphy.gif?cid=ecf05e47gc54na04ts0ts659fyg6cr7xrbu06ganpfbk3a6x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" hieght="100"/></a>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="620" hieght="100" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a>
+<td align="center"<a href="" title="Go to Source"><img src="https://media.giphy.com/media/OK5LK5zLFfdm/giphy.gif?cid=ecf05e47gc54na04ts0ts659fyg6cr7xrbu06ganpfbk3a6x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="380" hieght="100"/></a>
 </table>
 
 
