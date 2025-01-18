@@ -128,7 +128,8 @@ Anuvab Sen Skills
 <br>
 
 
-    🎥 Few of my competitive programming profiles  :
+<!--
+🎥 Few of my competitive programming profiles :
 ---
 
 <table>
@@ -138,6 +139,8 @@ Anuvab Sen Skills
 <td align="center"><a href="https://atcoder.jp/users/anuvabsen"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/e41f80bd8518827a492c4fab52e7c9e6af3a30d6/images/avatar.png" width="350" height ="250"/><h4>Atcoder Profile</h4>
 </table>
 <br>
+-->
+
  
     📈 Github Stats  :
 ---
