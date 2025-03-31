@@ -125,20 +125,6 @@ Anuvab Sen Skills
 
 
 <br>
-<br>
-
-
-
-🎥 Few of my competitive programming profiles :
----
-
-<table>
-<tr>
-<td align="center"><a href="https://codeforces.com/profile/gotcoding124"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.png" width="350" height ="250"/></a></br> <h4 style="color:red;">Codeforces Profile</h4>
-<td align="center"><a href="https://www.codechef.com/users/enigmacode"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="350" height ="250"/><h4>Codechef Profile</h4>
-<td align="center"><a href="https://atcoder.jp/users/anuvabsen"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/e41f80bd8518827a492c4fab52e7c9e6af3a30d6/images/avatar.png" width="350" height ="250"/><h4>Atcoder Profile</h4>
-</table>
-<br>
 
  
     📈 Github Stats  :
@@ -149,12 +135,6 @@ Anuvab Sen Skills
 <tr>
 <td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&theme=holi&show_icons=true" width="500"/>
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a>
-</table>
- 
-<table>
-<tr>
-<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="605" hieght="100" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="anuvab's wakatime" /></a>
-<td align="center"<a href="" title="Go to Source"><img src="https://media.giphy.com/media/OK5LK5zLFfdm/giphy.gif?cid=ecf05e47gc54na04ts0ts659fyg6cr7xrbu06ganpfbk3a6x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="395" hieght="100"/></a>
 </table>
 
 
