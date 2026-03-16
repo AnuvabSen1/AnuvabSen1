@@ -134,6 +134,7 @@ S. Sharma, H. Kumawat, <em>Anuvab Sen</em>, J. Park, <strong>Saibal Mukhopadhyay
 - ✈️ **IEEE CIS Travel Grant** — SSCI 2023, Mexico
 - 🏅 **VLSID 2024 Fellowship** — IEEE VLSI Design Conference
 - 🇨🇦 **Mitacs Globalink Research Scholarship** — McMaster University, Canada
+- 🇩🇪 **DAAD WISE Scholarship**
 - 🏅 **GAABESU Research Award** — Outstanding Undergraduate Research
 
 ---
