@@ -17,9 +17,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuvabSen1&langs_count=8&theme=github_dark&layout=compact&border_color=30363d&bg_color=0d1117&title_color=B3A369&text_color=c9d1d9" width="320" />
 
-I am a **Ph.D. Candidate** in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at **Georgia Tech**, working in the [GREEN Lab](https://greenlab.ece.gatech.edu/) under the supervision of [Prof. Saibal Mukhopadhyay](https://ece.gatech.edu/directory/saibal-mukhopadhyay).
+I am a **Ph.D. Candidate** in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at **Georgia Tech**.
 
-My research lies at the intersection of **multimodal fusion**, **efficient perception for the edge**, and **state-space models** — I design lightweight vision architectures that push state-of-the-art perception while remaining deployable on resource-constrained edge platforms. Beyond perception, I explore **large language models** and **efficient machine learning** paradigms, as well as **quantum sensing**, where I build simulation frameworks and design tools for quantum photonic sensors targeting low-power, high-precision applications.
+My work spans multimodal sensor fusion for autonomous perception, state-space models for efficient sequential processing, and HW-SW co-designed neural architectures for real-time edge inference. I am also interested in large language models, generative modeling, efficient computer vision, learning from unstructured data, and quantum sensing.
 
 **Research Interests:** `Hardware-ML Co-Design` `Multimodal Perception` `Multimodal Fusion` ` Perception Models` `State-Space Models` `Lightweight Neural Architectures` `Large Language Models` `Efficient Machine Learning` `Quantum Machine Learning` `Quantum Sensing`
 
