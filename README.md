@@ -21,7 +21,7 @@ I am a **Ph.D. Candidate** in the [School of Electrical and Computer Engineering
 
 My research lies at the intersection of **multimodal fusion**, **efficient perception for the edge**, and **state-space models** — I design lightweight vision architectures that push state-of-the-art perception while remaining deployable on resource-constrained edge platforms. Beyond perception, I explore **large language models** and **efficient machine learning** paradigms, as well as **quantum sensing**, where I build simulation frameworks and design tools for quantum photonic sensors targeting low-power, high-precision applications.
 
-**Research Interests:** `Hardware-ML Co-Design` `Multimodal Perception` `Multimodal Fusion` `Radar-Vision Fusion` `Efficient Perception Models for the Edge` `State-Space Models` `Lightweight Neural Architectures` `Large Language Models` `Efficient Machine Learning` `Quantum Machine Learning` `Quantum Sensing`
+**Research Interests:** `Hardware-ML Co-Design` `Multimodal Perception` `Multimodal Fusion` `Efficient Perception Models for the Edge` `State-Space Models` `Lightweight Neural Architectures` `Large Language Models` `Efficient Machine Learning` `Quantum Machine Learning` `Quantum Sensing`
 
 <br clear="right"/>
 
@@ -58,7 +58,7 @@ My research lies at the intersection of **multimodal fusion**, **efficient perce
 <td>
 <strong>SSMRadNet: A Sample-wise State-Space Framework for Efficient and Ultra-Light Radar Segmentation and Object Detection</strong><br/>
 <em>Anuvab Sen</em>, Mir Sayeed Mohammad, <strong>Saibal Mukhopadhyay</strong><br/>
-<sub>✅ Accepted at <b>WACV 2026</b> · First Round (~6% acceptance) · 🎤 <b>Oral Presentation</b> · Tucson, Arizona · Mar 2026</sub>
+<sub>✅ <b>WACV 2026</b> · First Round (~6% acceptance) · 🎤 <b>Oral Presentation</b> · Tucson, Arizona · Mar 2026</sub>
 </td>
 </tr>
 <tr>
