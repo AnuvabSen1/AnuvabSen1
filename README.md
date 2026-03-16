@@ -1,172 +1,174 @@
-<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" hieght="70" width="310" alt="hellogif">
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/>  I'm <a href="https://anuvab-sen.netlify.app/" target="_blank">Anuvab</a> 🤗 </h1>
+<div align="center">
 
-<p align="center" style="display: inline">
-<img src="https://img.shields.io/github/followers/AnuvabSen1?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/AnuvabSen1?style=for-the-badge">
-<a href="https://www.linkedin.com/in/anuvab-sen-316383202"><img src="https://img.shields.io/badge/-Anuvab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuvab-sen-316383202/)](https://www.linkedin.com/in/anuvab-sen-316383202"></a>
-<a href="https://anuvab-sen.netlify.app/">
- <img src="https://img.shields.io/badge/Portfolio%20-%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-</a>
-<a href="https://twitter.com/AnuvabSen10" target="blank"><img src="https://img.shields.io/twitter/follow/AnuvabSen10?logo=twitter&style=for-the-badge" alt="anuvab_sen" /></a>
-</p>
-<br>
-<div>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3A369,100:003057&height=220&section=header&text=Anuvab%20Sen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Student%20•%20Georgia%20Institute%20of%20Technology%,%20Atlanta&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
-<img align = "right" alt="androidgif" src="https://media.giphy.com/media/NIOD9qVufScrIufmvj/giphy.gif?cid=ecf05e47rk8o28jj8twa9rcgujlgo5npktc250ypzd8gioub&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300" height="390">
-<br>
-<br>
+<!-- Quick identity badges -->
+<a href="https://anuvabsen.me"><img src="https://img.shields.io/badge/🌐_Portfolio-anuvabsen.me-003057?style=for-the-badge" /></a>
+<a href="https://scholar.google.com/citations?user=aQkZOqQAAAAJ&hl=en"><img src="https://img.shields.io/badge/📚_Google_Scholar-Profile-4285F4?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/anuvabsen/"><img src="https://img.shields.io/badge/LinkedIn-Anuvab_Sen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:asen74@gatech.edu"><img src="https://img.shields.io/badge/Email-asen74@gatech.edu-B3A369?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<div align=left>
- 
-```sh
-var developements = {
-    "Web Development" : {
-        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
-        "Frameworks" : [ "Node.js", "Express.js", 
-                         ""React",  "Bootstrap" ]
-    "Machine Learning" : {
-        "Languages" : ["Python"] ,
-        "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "OpenCV" ]
-    }
-    "Ethical Hacking" : {
-        "Languages" : ["Python"] ,
-        "System" : ["Kali Linux"]
-    }
-}
-Anuvab Sen Skills
-```
-</div>
 </div>
 
-<hr>
-
-
-## About me 👨🏻‍💻 
-    
-👀 I am primarily interested in Electronics & Open-Source
-<br>
-<br>
-🌱 I’m currently learning Deep Learning and Analog Design
-<br>
-<br>
-💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .
-<br>
-<hr>
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left">
-    <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
-            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
-            alt="android studio" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
-            src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
-            alt="express" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" title ="git"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://heroku.com" target="_blank" title ="heroku"> 
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-            alt="heroku" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
-            src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
-            alt="java" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" title ="Python"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
-            src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
-            alt="tkinter" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
-            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
-            alt="typescript" width="40" height="40" /> </a>
-
-</p> 
-<hr>
-
-
-<div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuvabSen1&langs_count=20&theme=highcontrast&layout=compact" />
-    </a>
-</div>
-
-
-- 👨‍💻 All of my projects are available at
-[https://github.com/AnuvabSen1/](https://github.com/AnuvabSen1/)
-
-- 📫 How to reach me, drop an email at **sen.anuvab@gmail.com**
-- My CV website: https://anuvab-sen.me
-- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
-
-<br>
-
-    📈 Github Stats  :
 ---
- 
- 
+
+## About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuvabSen1&langs_count=8&theme=github_dark&layout=compact&border_color=30363d&bg_color=0d1117&title_color=B3A369&text_color=c9d1d9" width="320" />
+
+I am a **Ph.D. Candidate** in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at **Georgia Tech**, working in the [GREEN Lab](https://greenlab.ece.gatech.edu/) under the supervision of [Prof. Saibal Mukhopadhyay](https://ece.gatech.edu/directory/saibal-mukhopadhyay) (IEEE Fellow).
+
+My research lies at the intersection of **multimodal fusion**, **efficient perception for the edge**, and **state-space models** — I design lightweight vision architectures that push state-of-the-art perception while remaining deployable on resource-constrained edge platforms. Beyond perception, I explore **large language models** and **efficient machine learning** paradigms, as well as **quantum sensing**, where I build simulation frameworks and design tools for quantum photonic sensors targeting low-power, high-precision applications.
+
+**Research Interests:** `Hardware-ML Co-Design` `Multimodal Perception` `Multimodal Fusion` `Radar-Vision Fusion` `Efficient Perception Models for the Edge` `State-Space Models` `Lightweight Neural Architectures` `Large Language Models` `Efficient Machine Learning` `Quantum Machine Learning` `Quantum Sensing`
+
+<br clear="right"/>
+
+---
+
+## 📰 Recent News
+
+| Date | Update |
+|:-----|:-------|
+| **Mar 2026** | 🎤 *SSMRadNet* **Oral Presentation** at **WACV 2026**, Tucson, Arizona |
+| **Feb 2026** | 🎉 *RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation* accepted at **CVPR 2026**, Denver! |
+| **Sep 2025** | 🎉 *SSMRadNet* accepted at **WACV 2026** in the **first round** (~6% of Round 1 submissions) |
+| **Oct 2025** | 📄 *Towards Efficient and Robust Sequential Chirp-based Data-Driven Radar Processing for Object Detection* published in **IEEE Transactions on Radar Systems** |
+| **Apr 2025** | 🏆 4 papers accepted — *TERRAMORPHnet* nominated for **Best Paper** at **IGARSS 2025** |
+| **Mar 2025** | 📖 Book chapter on hyperparameter selection for weather forecasting in *Studies in Computational Intelligence* |
+| **Jan 2025** | 🏆 *DeepEyeNet* nominated for **Best Paper** at **IEEE SSCI** |
+| **Aug 2024** | 🎓 Started PhD at Georgia Tech |
+
+---
+
+## 🔬 Selected Publications
+
 <table>
 <tr>
-<td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&theme=holi&show_icons=true" width="500"/>
-<td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=react&border=61DAFB&fire=DDB80F"/></a>
+<td width="30" align="center">🌟</td>
+<td>
+<strong>RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation</strong><br/>
+<em>Anuvab Sen</em>, Mir Sayeed Mohammad, <strong>Saibal Mukhopadhyay</strong><br/>
+<sub>✅ Accepted at <b>CVPR 2026</b> · Denver, Colorado · June 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="30" align="center">🌟</td>
+<td>
+<strong>SSMRadNet: A Sample-wise State-Space Framework for Efficient and Ultra-Light Radar Segmentation and Object Detection</strong><br/>
+<em>Anuvab Sen</em>, Mir Sayeed Mohammad, <strong>Saibal Mukhopadhyay</strong><br/>
+<sub>✅ Accepted at <b>WACV 2026</b> · First Round (~6% acceptance) · 🎤 <b>Oral Presentation</b> · Tucson, Arizona · Mar 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="30" align="center">📄</td>
+<td>
+<strong>Towards Efficient and Robust Sequential Chirp-based Data-Driven Radar Processing for Object Detection</strong><br/>
+S. Sharma, H. Kumawat, <em>Anuvab Sen</em>, J. Park, <strong>Saibal Mukhopadhyay</strong><br/>
+<sub>📰 <b>IEEE Transactions on Radar Systems</b>, Jan 2025</sub>
+</td>
+</tr>
 </table>
 
+<details>
+<summary><b>📚 Other Selected Publications (click to expand)</b></summary>
+<br/>
 
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AnuvabSen1&theme=onedark&column=8" alt="zumrudu-anka" />
-    </a>
+| Paper | Venue | Year |
+|:------|:------|:----:|
+| TERRAMORPHnet: Deep Fusion Ensemble for Mars Hi-Rise Terrain Classification | IGARSS 🏆 *Best Paper Nominee* | 2025 |
+| EEMamba: A Hardware-Aware Energy-Efficient State-Space Model for Eurosat Classification | IGARSS | 2025 |
+| DeepEyeNet: Adaptive Genetic Bayesian Framework for Glaucoma Diagnosis | IEEE SSCI 🏆 *Best Paper Nominee* | 2025 |
+| QGAPHEnsemble: Hybrid QLSTM Network Ensemble for Weather Forecasting | IJCNN (Accepted) | 2024 |
+| QGAPHnet: Quantum Genetic Algorithm Based Hybrid QLSTM for Soil Moisture | IGARSS | 2024 |
+| HBO-DEViT: Vision Transformer for Ship-Iceberg Categorisation in Arctic SAR | IGARSS | 2024 |
+| Benchmarking Metaheuristic-Integrated QAOA Against Quantum Annealing | SIC / QIP 2024 Taipei | 2024 |
+| DE-ViT: Vision Transformer for Early Detection of Alzheimer's Disease | NCC | 2024 |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**ML / Quantum**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-5C2D91?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Web & Tools**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 </div>
-<hr>
 
+---
 
-![](https://activity-graph.herokuapp.com/graph?username=AnuvabSen1&theme=react-dark&hide_border=true&area=true)
+## 🏆 Honors & Awards
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.facebook.com/anuvab.sen.5095/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
-            width="40" /></a>
-    <a href="https://www.linkedin.com/in/anuvab-sen-316383202/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-    <a href="https://www.instagram.com/anuvabsen_/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
-            width="40" /></a>
-</p>
-<hr>
- 
-     ♬ Favourite Music  :
+- 🥇 **Best Paper Nominee** — IGARSS 2025 (TERRAMORPHnet)
+- 🥇 **Best Paper Nominee** — IEEE SSCI 2025 (DeepEyeNet)
+- 🎓 **SRC Research Scholars Program** — Georgia Tech
+- ✈️ **IEEE GRSS Travel Grant** ($1,725) — IGARSS 2024
+- ✈️ **IEEE CIS Travel Grant** — SSCI 2023, Mexico
+- 🏅 **VLSID 2024 Fellowship** — IEEE VLSI Design Conference
+- 🇨🇦 **Mitacs Globalink Research Scholarship** — McMaster University, Canada
+- 🏅 **GAABESU Research Award** — Outstanding Undergraduate Research
 
+---
 
+## 📊 GitHub Stats
 
-<div align=center>   
-    <a href="https://open.spotify.com/show/4FlvnIekSxBi1Oq73V3pEO?uid=adc3714e4b7bf1671d7b&uri=spotify%3Aepisode%3A2gbZ4OtMRYEhvfvp4s1oFi">
-        <img width= "1000" height= "200" align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+my+favourite+playlist+ever?" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=B3A369&icon_color=B3A369&text_color=c9d1d9&hide_border=false" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=github-dark-blue&border=30363d&background=0D1117&ring=B3A369&fire=B3A369&currStreakLabel=B3A369&sideLabels=c9d1d9&dates=8b949e" height="170" />
+
 </div>
-<img align="right" alt="Spotify Now Playing" width=1000 height=500 src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/default.svg" /></a>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnuvabSen1&theme=darkhub&no-frame=true&column=7&margin-w=10" width="90%" />
+</div>
 
+---
 
+<div align="center">
+
+### Let's Connect
+
+I'm always open to research collaborations in **quantum sensing**, **efficient ML**, and **hardware co-design**.
+
+<a href="https://www.linkedin.com/in/anuvabsen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=aQkZOqQAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="https://anuvabsen.me"><img src="https://img.shields.io/badge/Website-003057?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://twitter.com/AnuvabSen10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:asen74@gatech.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
+<sub>📍 Atlanta, GA · Georgia Institute of Technology · GREEN Lab</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3A369,100:003057&height=100&section=footer" width="100%" />
