@@ -21,7 +21,7 @@ I am a **Ph.D. Candidate** in the [School of Electrical and Computer Engineering
 
 My research lies at the intersection of **multimodal fusion**, **efficient perception for the edge**, and **state-space models** — I design lightweight vision architectures that push state-of-the-art perception while remaining deployable on resource-constrained edge platforms. Beyond perception, I explore **large language models** and **efficient machine learning** paradigms, as well as **quantum sensing**, where I build simulation frameworks and design tools for quantum photonic sensors targeting low-power, high-precision applications.
 
-**Research Interests:** `Hardware-ML Co-Design` `Multimodal Perception` `Multimodal Fusion` `Efficient Perception Models` `State-Space Models` `Lightweight Neural Architectures` `Large Language Models` `Efficient Machine Learning` `Quantum Machine Learning` `Quantum Sensing`
+**Research Interests:** `Hardware-ML Co-Design` `Multimodal Perception` `Multimodal Fusion` ` Perception Models` `State-Space Models` `Lightweight Neural Architectures` `Large Language Models` `Efficient Machine Learning` `Quantum Machine Learning` `Quantum Sensing`
 
 <br clear="right"/>
 
@@ -134,7 +134,7 @@ S. Sharma, H. Kumawat, <em>Anuvab Sen</em>, J. Park, <strong>Saibal Mukhopadhyay
 - ✈️ **IEEE CIS Travel Grant** — SSCI 2023, Mexico
 - 🏅 **VLSID 2024 Fellowship** — IEEE VLSI Design Conference
 - 🇨🇦 **Mitacs Globalink Research Scholarship** — McMaster University, Canada
-- 🇩🇪 **DAAD WISE Scholarship**
+- 🇩🇪 **DAAD WISE Scholarship** — Working Internships in Science and Engineering, Germany
 - 🏅 **GAABESU Research Award** — Outstanding Undergraduate Research
 
 ---
