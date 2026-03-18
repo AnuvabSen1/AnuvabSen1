@@ -17,7 +17,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuvabSen1&langs_count=8&theme=github_dark&layout=compact&border_color=30363d&bg_color=0d1117&title_color=B3A369&text_color=c9d1d9" width="320" />
 
-I am a **Ph.D. Candidate** in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at **Georgia Tech**.
+I am a **Ph.D. Student** in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at **Georgia Tech**.
 
 My work spans multimodal learning for autonomous perception, state-space models for efficient sequential processing, and HW-SW co-design for sensor processing pipelines for real-time edge inference. I am also interested in large language models, generative modeling, efficient computer vision, learning from unstructured data, and quantum sensing.
 
