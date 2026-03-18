@@ -21,7 +21,7 @@ I am a **Ph.D. Candidate** in the [School of Electrical and Computer Engineering
 
 My work spans multimodal learning for autonomous perception, state-space models for efficient sequential processing, and HW-SW co-design for sensor processing pipelines for real-time edge inference. I am also interested in large language models, generative modeling, efficient computer vision, learning from unstructured data, and quantum sensing.
 
-**Research Interests:** `Hardware-ML Co-Design` `Multimodal Perception` `Multimodal Fusion` ` Perception Models` `State-Space Models` `Lightweight Neural Architectures` `Large Language Models` `Efficient Machine Learning` `Quantum Machine Learning` `Quantum Sensing`
+**Research Interests:** `Hardware-ML Co-Design` `Multimodal Learning` `State-Space Models` `Lightweight Neural Architectures` `Large Language Models` `Efficient Machine Learning` `Quantum Machine Learning` `Quantum Sensing`
 
 <br clear="right"/>
 
