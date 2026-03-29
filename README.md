@@ -162,7 +162,7 @@ I'm always open to research collaborations in **quantum sensing**, **efficient M
 
 <a href="https://www.linkedin.com/in/anuvabsen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=aQkZOqQAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-<a href="https://anuvabsen.me"><img src="https://img.shields.io/badge/Website-003057?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://anuvabsen.com"><img src="https://img.shields.io/badge/Website-003057?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://twitter.com/AnuvabSen10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:asen74@gatech.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
