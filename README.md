@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3A369,100:003057&height=220&section=header&text=Anuvab%20Sen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Student%20•%20Georgia%20Institute%20of%20Technology%,%20Atlanta&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
 <!-- Quick identity badges -->
-<a href="https://anuvabsen.me"><img src="https://img.shields.io/badge/🌐_Portfolio-anuvabsen.me-003057?style=for-the-badge" /></a>
+<a href="https://anuvabsen.com"><img src="https://img.shields.io/badge/🌐_Portfolio-anuvabsen.com-003057?style=for-the-badge" /></a>
 <a href="https://scholar.google.com/citations?user=aQkZOqQAAAAJ&hl=en"><img src="https://img.shields.io/badge/📚_Google_Scholar-Profile-4285F4?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/anuvabsen/"><img src="https://img.shields.io/badge/LinkedIn-Anuvab_Sen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:asen74@gatech.edu"><img src="https://img.shields.io/badge/Email-asen74@gatech.edu-B3A369?style=for-the-badge&logo=gmail&logoColor=white" /></a>
