@@ -15,7 +15,7 @@
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuvabSen1&langs_count=8&theme=github_dark&layout=compact&border_color=30363d&bg_color=0d1117&title_color=B3A369&text_color=c9d1d9" width="320" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuvabSen1&langs_count=8&theme=github_dark&layout=compact&border_color=30363d&bg_color=0d1117&title_color=B3A369&text_color=c9d1d9&cache_seconds=86400" width="320" alt="" />
 
 I am a **Ph.D. Student** in the [School of Electrical and Computer Engineering](https://ece.gatech.edu/) at **Georgia Tech**.
 
@@ -31,7 +31,10 @@ My work spans multimodal learning for autonomous perception, state-space models 
 
 | Date | Update |
 |:-----|:-------|
-| **Jun 2026** | 🌟 *RAVEN* presented as a **Highlight (~Top 1%)** at **CVPR 2026**, Denver — plus a **live edge demo** running real-time inference from raw FMCW radar streams |
+| **Jun 2026** | 🤖 **Live edge demo** of *RAVEN* at **CVPR 2026**, Denver — real-time detection from raw FMCW radar ADC streams on edge hardware |
+| **Jun 2026** | 🌟 *RAVEN* presented as a **Highlight (~Top 1%)** at **CVPR 2026**, Denver, Colorado |
+| **May 2026** | 📄 *RAVEN* paper and project page released — [project page](https://anuvabsen1.github.io/raven/) · [live demo](https://anuvabsen1.github.io/raven-demo/) |
+| **May 2026** | 🎉 *SSP-QST: Spectral Subspace Purification for Photonic Quantum State Tomography* accepted at **IEEE QCE 2026** |
 | **Mar 2026** | 🎤 *SSMRadNet* **Oral Presentation** at **WACV 2026**, Tucson, Arizona |
 | **Mar 2026** | 🎤 Oral talk on *Adaptive Hierarchical State-Space Models for Edge Sensing and Perception* at **GOMACTech 2026** |
 | **Feb 2026** | 🎉 *RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation* accepted as a **Highlight (~Top 1%)** at **CVPR 2026** |
@@ -61,7 +64,16 @@ My work spans multimodal learning for autonomous perception, state-space models 
 <td>
 <strong>SSMRadNet: A Sample-wise State-Space Framework for Efficient and Ultra-Light Radar Segmentation and Object Detection</strong><br/>
 <em>Anuvab Sen</em>, Mir Sayeed Mohammad, <strong>Saibal Mukhopadhyay</strong><br/>
-<sub>✅ <b>WACV 2026</b> · First Round (~6% acceptance) · 🎤 <b>Oral Presentation</b> · Tucson, Arizona · Mar 2026</sub>
+<sub>🎤 <b>WACV 2026</b> · <b>Oral Presentation</b> · First Round (~6% acceptance) · Tucson, Arizona · Mar 2026<br/>
+<a href="https://github.com/AnuvabSen1/SSMRadNet">Code</a></sub>
+</td>
+</tr>
+<tr>
+<td width="30" align="center">⚛️</td>
+<td>
+<strong>SSP-QST: Spectral Subspace Purification for Photonic Quantum State Tomography</strong><br/>
+<em>Anuvab Sen</em>, <strong>Saibal Mukhopadhyay</strong><br/>
+<sub>✅ <b>IEEE QCE 2026</b> · Rank-adaptive spectral purification for photonic quantum sensing</sub>
 </td>
 </tr>
 <tr>
@@ -80,7 +92,6 @@ S. Sharma, H. Kumawat, <em>Anuvab Sen</em>, J. Park, <strong>Saibal Mukhopadhyay
 
 | Paper | Venue | Year |
 |:------|:------|:----:|
-| SSP-QST: Spectral Subspace Purification for Photonic Quantum State Tomography | IEEE QCE | 2026 |
 | TERRAMORPHnet: Deep Fusion Ensemble for Mars Hi-Rise Terrain Classification | IGARSS 🏆 *Best Paper Nominee* | 2025 |
 | EEMamba: A Hardware-Aware Energy-Efficient State-Space Model for Eurosat Classification | IGARSS | 2025 |
 | DeepEyeNet: Adaptive Genetic Bayesian Framework for Glaucoma Diagnosis | IEEE SSCI 🏆 *Best Paper Nominee* | 2025 |
@@ -102,6 +113,7 @@ S. Sharma, H. Kumawat, <em>Anuvab Sen</em>, J. Park, <strong>Saibal Mukhopadhyay
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
@@ -110,12 +122,20 @@ S. Sharma, H. Kumawat, <em>Anuvab Sen</em>, J. Park, <strong>Saibal Mukhopadhyay
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-5C2D91?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Edge & Hardware**
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Intel NPU](https://img.shields.io/badge/Intel_NPU-0071C5?style=flat-square&logo=intel&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA_(Kintex_UltraScale+)-C8102E?style=flat-square&logo=amd&logoColor=white)
 
 **Web & Tools**
 
@@ -151,13 +171,13 @@ S. Sharma, H. Kumawat, <em>Anuvab Sen</em>, J. Park, <strong>Saibal Mukhopadhyay
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=B3A369&icon_color=B3A369&text_color=c9d1d9&hide_border=false" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AnuvabSen1&theme=github-dark-blue&border=30363d&background=0D1117&ring=B3A369&fire=B3A369&currStreakLabel=B3A369&sideLabels=c9d1d9&dates=8b949e" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnuvabSen1&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=B3A369&icon_color=B3A369&text_color=c9d1d9&hide_border=false&cache_seconds=86400" height="170" alt="" />
+<img src="https://streak-stats.demolab.com?user=AnuvabSen1&theme=github-dark-blue&border=30363d&background=0D1117&ring=B3A369&fire=B3A369&currStreakLabel=B3A369&sideLabels=c9d1d9&dates=8b949e" height="170" alt="" />
 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnuvabSen1&theme=darkhub&no-frame=true&column=7&margin-w=10" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AnuvabSen1&theme=darkhub&no-frame=true&column=7&margin-w=10" width="90%" alt="" />
 </div>
 
 ---
