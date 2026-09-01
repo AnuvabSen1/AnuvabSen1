@@ -31,10 +31,12 @@ My work spans multimodal learning for autonomous perception, state-space models 
 
 | Date | Update |
 |:-----|:-------|
+| **Jun 2026** | 🌟 *RAVEN* presented as a **Highlight (~Top 1%)** at **CVPR 2026**, Denver — plus a **live edge demo** running real-time inference from raw FMCW radar streams |
 | **Mar 2026** | 🎤 *SSMRadNet* **Oral Presentation** at **WACV 2026**, Tucson, Arizona |
-| **Feb 2026** | 🎉 *RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation* accepted at **CVPR 2026**, Denver! |
-| **Sep 2025** | 🎉 *SSMRadNet* accepted at **WACV 2026** in the **first round** (~6% of Round 1 submissions) |
+| **Mar 2026** | 🎤 Oral talk on *Adaptive Hierarchical State-Space Models for Edge Sensing and Perception* at **GOMACTech 2026** |
+| **Feb 2026** | 🎉 *RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation* accepted as a **Highlight (~Top 1%)** at **CVPR 2026** |
 | **Oct 2025** | 📄 *Towards Efficient and Robust Sequential Chirp-based Data-Driven Radar Processing for Object Detection* published in **IEEE Transactions on Radar Systems** |
+| **Sep 2025** | 🎉 *SSMRadNet* accepted at **WACV 2026** in the **first round** (~6% of Round 1 submissions) |
 | **Apr 2025** | 🏆 4 papers accepted — *TERRAMORPHnet* nominated for **Best Paper** at **IGARSS 2025** |
 | **Mar 2025** | 📖 Book chapter on hyperparameter selection for weather forecasting in *Studies in Computational Intelligence* |
 | **Jan 2025** | 🏆 *DeepEyeNet* nominated for **Best Paper** at **IEEE SSCI** |
@@ -50,7 +52,8 @@ My work spans multimodal learning for autonomous perception, state-space models 
 <td>
 <strong>RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation</strong><br/>
 <em>Anuvab Sen</em>, Mir Sayeed Mohammad, <strong>Saibal Mukhopadhyay</strong><br/>
-<sub>✅ Accepted at <b>CVPR 2026</b> · Denver, Colorado · June 2026</sub>
+<sub>🌟 <b>CVPR 2026</b> · <b>Highlight (~Top 1% of submissions)</b> · Denver, Colorado · June 2026<br/>
+<a href="https://anuvabsen1.github.io/raven/">Project Page</a> · <a href="https://anuvabsen1.github.io/raven-demo/">Live Demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -77,6 +80,7 @@ S. Sharma, H. Kumawat, <em>Anuvab Sen</em>, J. Park, <strong>Saibal Mukhopadhyay
 
 | Paper | Venue | Year |
 |:------|:------|:----:|
+| SSP-QST: Spectral Subspace Purification for Photonic Quantum State Tomography | IEEE QCE | 2026 |
 | TERRAMORPHnet: Deep Fusion Ensemble for Mars Hi-Rise Terrain Classification | IGARSS 🏆 *Best Paper Nominee* | 2025 |
 | EEMamba: A Hardware-Aware Energy-Efficient State-Space Model for Eurosat Classification | IGARSS | 2025 |
 | DeepEyeNet: Adaptive Genetic Bayesian Framework for Glaucoma Diagnosis | IEEE SSCI 🏆 *Best Paper Nominee* | 2025 |
@@ -127,6 +131,10 @@ S. Sharma, H. Kumawat, <em>Anuvab Sen</em>, J. Park, <strong>Saibal Mukhopadhyay
 
 ## 🏆 Honors & Awards
 
+- 🌟 **CVPR 2026 Highlight** (~Top 1% of submissions) — RAVEN
+- 🎤 **WACV 2026 Oral Presentation** — SSMRadNet
+- 🥇 **ICML 2026 Golden Reviewer Award**
+- 🎟️ **CVPR Broadening Participation Award**
 - 🥇 **Best Paper Nominee** — IGARSS 2025 (TERRAMORPHnet)
 - 🥇 **Best Paper Nominee** — IEEE SSCI 2025 (DeepEyeNet)
 - 🎓 **SRC Research Scholars Program** — Georgia Tech
