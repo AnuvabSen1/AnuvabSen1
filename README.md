@@ -31,10 +31,10 @@ My work spans multimodal learning for autonomous perception, state-space models 
 
 | Date | Update |
 |:-----|:-------|
+| **Jul 2026** | 🎉 *SSP-QST: Spectral Subspace Purification for Photonic Quantum State Tomography* accepted at **IEEE QCE 2026** |
 | **Jun 2026** | 🤖 **Live edge demo** of *RAVEN* at **CVPR 2026**, Denver — real-time detection from raw FMCW radar ADC streams on edge hardware |
 | **Jun 2026** | 🌟 *RAVEN* presented as a **Highlight (~Top 1%)** at **CVPR 2026**, Denver, Colorado |
 | **May 2026** | 📄 *RAVEN* paper and project page released — [project page](https://anuvabsen1.github.io/raven/) · [live demo](https://anuvabsen1.github.io/raven-demo/) |
-| **May 2026** | 🎉 *SSP-QST: Spectral Subspace Purification for Photonic Quantum State Tomography* accepted at **IEEE QCE 2026** |
 | **Mar 2026** | 🎤 *SSMRadNet* **Oral Presentation** at **WACV 2026**, Tucson, Arizona |
 | **Mar 2026** | 🎤 Oral talk on *Adaptive Hierarchical State-Space Models for Edge Sensing and Perception* at **GOMACTech 2026** |
 | **Feb 2026** | 🎉 *RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation* accepted as a **Highlight (~Top 1%)** at **CVPR 2026** |
@@ -49,7 +49,7 @@ My work spans multimodal learning for autonomous perception, state-space models 
 
 ## 🔬 Selected Publications
 
-<table>
+<table>   
 <tr>
 <td width="30" align="center">🌟</td>
 <td>
